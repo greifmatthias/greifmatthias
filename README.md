@@ -4,7 +4,7 @@
 
 - 💬 A Web/App developer located in Belgium.
 - 🔭 Currently working at some great apps, stay tuned.
-- 🧑‍🚀 In the meanwhile experimenting with Flutter
+- 🧑‍🚀 Experimenting with Flutter
 - 😄 he/his
 
 

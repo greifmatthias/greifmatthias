@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-💬 A Web/App developer located in Belgium.
-🔭 Currently working at some great apps, stay tuned.
-🧑‍🚀 In the meanwhile experimenting with Flutter
-😄 he/his
+- 💬 A Web/App developer located in Belgium.
+- 🔭 Currently working at some great apps, stay tuned.
+- 🧑‍🚀 In the meanwhile experimenting with Flutter
+- 😄 he/his
 
 [![wakatime](https://wakatime.com/badge/user/8fd64d05-2a0b-433e-b862-88c53af4efd4.svg)](https://wakatime.com/@8fd64d05-2a0b-433e-b862-88c53af4efd4)
 

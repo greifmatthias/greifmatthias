@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/8fd64d05-2a0b-433e-b862-88c53af4efd4.svg?style=for-the-badge)](https://wakatime.com/@8fd64d05-2a0b-433e-b862-88c53af4efd4)
+[![wakatime](https://wakatime.com/badge/user/8fd64d05-2a0b-433e-b862-88c53af4efd4.svg)](https://wakatime.com/@8fd64d05-2a0b-433e-b862-88c53af4efd4)
 
 - 💬 A Web/App developer located in Belgium.
 - 🔭 Currently working at some great apps, stay tuned.

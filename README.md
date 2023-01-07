@@ -4,8 +4,7 @@
 
 - 💬 A Web/App developer located in Belgium.
 - 🔭 Currently working at some great apps, stay tuned.
-- 🧑‍🚀 Experimenting with Flutter
-- 😄 he/his
+- 🧑‍🚀 Experimenting with React native, WebComponents and more.
 
 
 <!--

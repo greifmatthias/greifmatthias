@@ -4,7 +4,7 @@
 
 - 💬 A Web/App developer located in Belgium.
 - 🔭 Currently working at some great apps, stay tuned.
-- 🧑‍🚀 Experimenting with React native, WebComponents and more.
+- 🧑‍🚀 Experimenting with Android Compose and Kotlin, WebComponents and more.
 
 
 <!--
